@@ -1,9 +1,4 @@
 
-###
-
-<img src="https://raw.githubusercontent.com/lengo0951/lengo0951/output/snake.svg" alt="Snake animation" />
-
-###
 <h2 align="left">Hi 👋! My name is Le Quoc Ngo and I'm a developer from VietNam</h2>
 
 ###
