@@ -1,9 +1,9 @@
-<br clear="both">
+
+###
 
 <img src="https://raw.githubusercontent.com/lengo0951/lengo0951/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <h2 align="left">Hi 👋! My name is Le Quoc Ngo and I'm a developer from VietNam</h2>
 
 ###
@@ -66,5 +66,3 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
