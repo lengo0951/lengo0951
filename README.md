@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Le Quoc Ngo and I'm a developer from VietNam</h2>
+<h2 align="left">Hi 👋! My name is Le Quoc Ngo and I'm a developer, security researcher & trader from VietNam</h2>
 
 ###
 
