@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio website" />
   </a>
 </p>
-###
 
 <h4 align="left">I'm using</h4>
 
